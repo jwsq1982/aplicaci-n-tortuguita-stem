@@ -1,3 +1,3 @@
 # aplicaci-n-tortuguita-stem
-Aplicación interactiva que mueve un móvil a través de diferentes retos dirigida para niños preescolares que aprenderán jugando. Esta aplicación genera un archivo de texto el cual es enviado vía wifi a una placa nodemcu para que según la programación respectiva provoque el movimiento físico del móvil.
-La explicación del juego está disponible mediante el siguiente enlace https://youtu.be/Nu2AFqZhZQM
+El juego estará vinculado vía WiFi a una placa Nodemcu , la cual tomará los datos enviados y mediante codificación en Arduino permitirá la movilidad del robot móvil en forma física.
+La explicación del juego está disponible en  https://youtu.be/Nu2AFqZhZQM
